@@ -1,2 +1,8 @@
-# app-6366db0284d1d41a69836a3a
-This is my first template repo
+# CMS Template - Basic
+Default template for CMS
+
+## Install
+Run npm install in terminal
+
+## Start
+Run npm run start in terminal
